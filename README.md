@@ -2,7 +2,7 @@
 
 ## 🚀 Overview
 A production-grade ELT (Extract, Load, Transform) pipeline designed to ingest high-volume synthetic E-commerce data into Snowflake. This project demonstrates how to decouple storage and compute using modern cloud data warehousing practices.
-
+| ![Raw Data](snowflake_data_preview.png) | ![Sales Trends](snowflake_analytics.png) |
 ## 🛠️ Tech Stack
 * **Language:** Python 3.9
 * **Containerization:** Docker & Docker Compose
